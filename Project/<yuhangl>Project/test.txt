@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------------------
+Readme:
+------------------------------------------------------------------------------------------
+The ObjectNode-Project is for Part 1.
+
+As required, the test methods are in the main function in ObjectNode.java and SinglyLinkedList.java.
+------------------------------------------------------------------------------------------
+The Merkle-Hellman-Knapsack-Crypto-Project is for Part 2.
+
+The required screenshots are in the Screenshot-for-Part-2 folder, which is in the Merkle-Hellman-Knapsack-Crypto-Project.
+
+In order to test the function, you need to run MerkleHellmanKnapsackCrypto.java.
+------------------------------------------------------------------------------------------
+The MerkleTree-Project is for Part 3.
+
+The required screenshots are in the Screenshot-for-Part-3 folder, which is in the MerkleTree-Project.
+
+In order to test the function, you need to run main function in MerkleTree.java.
+------------------------------------------------------------------------------------------
+Hope you like my project! :)
