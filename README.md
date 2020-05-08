@@ -29,7 +29,7 @@ This repository is for my 95_771 in CMU.
 		1. Select a vertex r to be a root vertex
 		2. Compute a minimum spanning tree T for G from root r using MST-Prim(G,c,r)
 		3. Let L be the list of vertices visited in a preorder tree walk of T
-    4. Return the Hamiltonian cycle H that visits the vertices in the order L
+    		4. Return the Hamiltonian cycle H that visits the vertices in the order L
 		Second, finding an optimal solution to TSP.
 		Third, displaying the output to Google Earth.
 ## Project5 Lempel-Ziv Welch Compression
@@ -51,5 +51,5 @@ This repository is for my 95_771 in CMU.
 			Compression Ratio: 135.0%
 ## Project6 Turing Machine
 		First, I wrote a Java program that simulates a Turing Machine. Second, I designed transcations to 
-		achieve proper subtraction m – n. Third, I designed transcations to read a series of zeroes and ones 
-		and decides the language L = {0^n*1^n, n >= 1}.
+		achieve proper subtraction m – n. Third, I designed transcations to read a series of zeroes and 
+		ones and decides the language L = {0^n*1^n, n >= 1}.
