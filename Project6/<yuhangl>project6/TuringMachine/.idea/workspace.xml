@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67d08f6e-393c-41cc-84e6-b5f0214e3cf1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b3UWn5GPlOS77ii95a2Rn4K8Fm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.TuringDecider">
+    <configuration name="TuringDecider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TuringDecider" />
+      <module name="TuringMachine" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TuringFlipper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TuringFlipper" />
+      <module name="TuringMachine" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TuringSubtractor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TuringSubtractor" />
+      <module name="TuringMachine" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TuringDecider" />
+        <item itemvalue="Application.TuringSubtractor" />
+        <item itemvalue="Application.TuringFlipper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67d08f6e-393c-41cc-84e6-b5f0214e3cf1" name="Default Changelist" comment="" />
+      <created>1587860304746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587860304746</updated>
+      <workItem from="1587860307231" duration="14786000" />
+      <workItem from="1587914923426" duration="3615000" />
+      <workItem from="1587922557142" duration="350000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="266" key="GridCell.Tab.0.bottom" timestamp="1587922911898">
+      <screen x="0" y="23" width="1920" height="986" />
+    </state>
+    <state width="1878" height="217" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1587905339531" />
+    <state width="1638" height="266" key="GridCell.Tab.0.bottom/0.23.1920.986@0.23.1920.986" timestamp="1587922911898" />
+    <state width="1638" height="266" key="GridCell.Tab.0.center" timestamp="1587922911897">
+      <screen x="0" y="23" width="1920" height="986" />
+    </state>
+    <state width="1878" height="217" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1587905339531" />
+    <state width="1638" height="266" key="GridCell.Tab.0.center/0.23.1920.986@0.23.1920.986" timestamp="1587922911897" />
+    <state width="1638" height="266" key="GridCell.Tab.0.left" timestamp="1587922911897">
+      <screen x="0" y="23" width="1920" height="986" />
+    </state>
+    <state width="1878" height="217" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1587905339530" />
+    <state width="1638" height="266" key="GridCell.Tab.0.left/0.23.1920.986@0.23.1920.986" timestamp="1587922911897" />
+    <state width="1638" height="266" key="GridCell.Tab.0.right" timestamp="1587922911898">
+      <screen x="0" y="23" width="1920" height="986" />
+    </state>
+    <state width="1878" height="217" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1587905339531" />
+    <state width="1638" height="266" key="GridCell.Tab.0.right/0.23.1920.986@0.23.1920.986" timestamp="1587922911898" />
+    <state width="1878" height="217" key="GridCell.Tab.1.bottom" timestamp="1587905339532">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="1878" height="217" key="GridCell.Tab.1.bottom/0.23.1680.956@0.23.1680.956" timestamp="1587905339532" />
+    <state width="1878" height="217" key="GridCell.Tab.1.bottom/0.23.1920.986@0.23.1920.986" timestamp="1587874473920" />
+    <state width="1878" height="217" key="GridCell.Tab.1.center" timestamp="1587905339532">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="1878" height="217" key="GridCell.Tab.1.center/0.23.1680.956@0.23.1680.956" timestamp="1587905339532" />
+    <state width="1878" height="217" key="GridCell.Tab.1.center/0.23.1920.986@0.23.1920.986" timestamp="1587874473920" />
+    <state width="1878" height="217" key="GridCell.Tab.1.left" timestamp="1587905339532">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="1878" height="217" key="GridCell.Tab.1.left/0.23.1680.956@0.23.1680.956" timestamp="1587905339532" />
+    <state width="1878" height="217" key="GridCell.Tab.1.left/0.23.1920.986@0.23.1920.986" timestamp="1587874473920" />
+    <state width="1878" height="217" key="GridCell.Tab.1.right" timestamp="1587905339532">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="1878" height="217" key="GridCell.Tab.1.right/0.23.1680.956@0.23.1680.956" timestamp="1587905339532" />
+    <state width="1878" height="217" key="GridCell.Tab.1.right/0.23.1920.986@0.23.1920.986" timestamp="1587874473920" />
+    <state x="463" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1587922558198">
+      <screen x="0" y="23" width="1920" height="986" />
+    </state>
+    <state x="463" y="269" key="com.intellij.ide.util.TipDialog/0.23.1920.986@0.23.1920.986" timestamp="1587922558198" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TuringMachine$TuringFlipper.ic" NAME="TuringFlipper Coverage Results" MODIFIED="1587864962918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
