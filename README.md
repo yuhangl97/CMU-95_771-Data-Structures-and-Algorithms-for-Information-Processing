@@ -35,23 +35,20 @@ Third, displaying the output to Google Earth.
 ------------------------------------------------------------------------------------
 Project5 Lempel-Ziv Welch Compression
 I wrote a Java implementation of the Lempel-Ziv Wech compression algorithm. My program is able to compress and decompress ASCII and binary files.
-- Efficiency: Compression Ratio = After zipped size / Before zipped size ( the less the better)
-	1. shortwords.txt
-	Before: 50 bytes; After: 57 bytes;
-	Compression Ratio: 114.0 %
-	Reason: The file is too small
-
-	2. CrimeLatLonXY.csv
-	Before: 2608940, bytes; After: 1284804 bytes;
-	Compression Ratio: 49.2 %
-
-	3. words.html
-	Before: 1070450 bytes; After: 2493531 bytes;
-	Compression Ratio: 42.9 %
-
-	4. 01_Overview.mp4
-	Before: 25008838 bytes; After: 33771266 bytes;
-	Compression Ratio: 135.0%
+	Efficiency: Compression Ratio = After zipped size / Before zipped size ( the less the better)
+	shortwords.txt
+		Before: 50 bytes; After: 57 bytes;
+		Compression Ratio: 114.0 %
+		Reason: The file is too small
+	CrimeLatLonXY.csv
+		Before: 2608940, bytes; After: 1284804 bytes;
+		Compression Ratio: 49.2 %
+	words.html
+		Before: 1070450 bytes; After: 2493531 bytes;
+		Compression Ratio: 42.9 %
+	01_Overview.mp4
+		Before: 25008838 bytes; After: 33771266 bytes;
+		Compression Ratio: 135.0%
 ------------------------------------------------------------------------------------
 Project6 Turing Machine
 First, I wrote a Java program that simulates a Turing Machine. Second, I designed transcations to achieve proper subtraction m – n. Third, I designed transcations to read a series of zeroes and ones and decides the language L = {0^n*1^n, n >= 1}.
